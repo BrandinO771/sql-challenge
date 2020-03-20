@@ -8,7 +8,7 @@ Database exercise working with company personnel  data using custom queries, and
 <h4> Data Inspection Modeling </h4>
 <li> Inspected CSVs of company personnel and  designed the "Entity Relationship Diagram" (ERD) of the tables. </li> 
 
-<h4> Data Engineering </h4>
+<font style="font-weight:bold; font-size : 12px;" > Data Engineering >
 <li> Used the information from data inspection to create a table schema for each of the six CSV files.</li>  
 <li> Specified data types, primary keys, foreign keys, and other constraints. </li> 
 
@@ -25,6 +25,6 @@ Example Querys displayed:
 <li>Visualized Results with Pandas MatPlotLib  </li> 
 
 <br>
-<p> Example of Query Visualization </p>
+<h5> Example of Query Visualization </h5>
 <img src="https://github.com/BrandinO771/sql-challenge/blob/master/EmployeeSQL/pandas_diagrams/BS__PewLett_Avg_Sal.png">
 
