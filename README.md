@@ -10,7 +10,7 @@ Database exercise working with company personnel  data using custom queries, and
 <+> Inspected CSVs of company personnel and  designed the "Entity Relationship Diagram" (ERD) of the tables. <br>
 
 **Data Engineering:**<br>
-<-> Used the information from data inspection to create a table schema for each of the six CSV files.<br>
++ Used the information from data inspection to create a table schema for each of the six CSV files.<br>
 <>>> Specified data types, primary keys, foreign keys, and other constraints. <br>
 
 **Created Database: Postgres**<br>
