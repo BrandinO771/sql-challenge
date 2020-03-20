@@ -1,9 +1,9 @@
 
-<h1> A Ddatabase exercise -Postgres & SQLAlchemy </h1>
-Working with company personnel with custom queries and schema design. 
+<h1> A Database Exercise - Postgres & SQLAlchemy </h1>
+<h2> Contributor: Brandon Steinke </h2>
 
 SUMMARY OF THIS DIRECTORY : 
-Database exercise for company employee data using custom queries, and schema design
+Database exercise working with company personnel  data using custom queries, and schema design
 
 <h4> Data Inspection Modeling </h4>
 <li> Inspected CSVs and sketched out an "Entity Relationship Diagram" (ERD) of the tables. </li> 
