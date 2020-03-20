@@ -7,11 +7,11 @@ Database exercise working with company personnel  data using custom queries, and
 <br>
 
 **Data Inspection Modeling:**<br>
-<> Inspected CSVs of company personnel and  designed the "Entity Relationship Diagram" (ERD) of the tables. <br>
+<+> Inspected CSVs of company personnel and  designed the "Entity Relationship Diagram" (ERD) of the tables. <br>
 
 **Data Engineering:**<br>
-<> Used the information from data inspection to create a table schema for each of the six CSV files.<br>
-<> Specified data types, primary keys, foreign keys, and other constraints. <br>
+<-> Used the information from data inspection to create a table schema for each of the six CSV files.<br>
+<>>> Specified data types, primary keys, foreign keys, and other constraints. <br>
 
 **Created Database: Postgres**<br>
 <> Imported each CSV file into the corresponding SQL table.
@@ -21,7 +21,7 @@ Example Querys displayed:<br>
 <> The following details of each employee: employee number, last name, first name, gender, and salary.<br>
 <> Employees who were hired in 1986. <br>
 
-**Data Analysis - SQL Querys In Jupyter NotebookSQLAlchemy:**
+**Data Analysis - SQL Querys In Jupyter NotebookSQLAlchemy:** <br>
 <> Performed Queries from JupyterNotebook with Python SQL Alchemy  <br>
 <> Visualized Results with Pandas MatPlotLib <br>
 <br>
