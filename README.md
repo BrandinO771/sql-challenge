@@ -1,22 +1,26 @@
-# sql-challenge
-database exercise for company with custom queries
+
+<h1> A Database exercise for company personell with custom queries and schema design. </h1>
 
 SUMMARY OF THIS DIRECTORY : 
 
-* Create an image file of your ERD.
------LOCATION FOLDER :  schema_quick_DBD_ERD
------------FILE NAME :  several image file formats and sql ver from QuickDBD 
+Database exercise for company employee data using custom queries, and schema design
 
-* Create a `.sql` file of your table schemata.
------LOCATION FOLDER : schema_sql
------------FILE NAME : schema_final
+<h4> Data Inspection Modeling </h4>
+<li> Inspected CSVs and sketch out an ERD of the tables. </li> 
 
-* Create a `.sql` file of your queries.
------LOCATION FOLDER : queries
------------FILE NAME : employee_chlg_QUERIES_BS.sql
+<h4> Data Engineering </h4>
+<li> Used the information from data inspection to create a table schema for each of the six CSV files. Specifying data types, primary keys, foreign keys, and other constraints. </li> 
 
+<h2> Create Database : Postgres </h2>
+<li>Imported each CSV file into the corresponding SQL table. </li> 
 
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
------LOCATION FOLDER : pandas_diagrams
------------FILE NAME : sql_to_panda_plot_BS.ipynb,  BS__PewLett_Avg_Sal.png
+<h2>Data Analysis - SQL Querys In Postgres </h2>
+<li>Listed the following details of each employee: employee number, last name, first name, gender, and salary. </li> 
+<li>Listed employees who were hired in 1986. </li> 
+
+<h4>Data Analysis - SQL Querys In Jupyter NotebookSQLAlchemy </h4>
+<li>Performed Queries from JupyterNotebook with Python SQL Alchemy  </li> 
+<li>Visualized Results with Pandas MatPlotLib  </li> 
+<br>
+<img scr="https://github.com/BrandinO771/sql-challenge/blob/master/EmployeeSQL/pandas_diagrams/BS__PewLett_Avg_Sal.png>
 
