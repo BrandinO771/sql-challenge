@@ -1,12 +1,12 @@
 
-<h1> A Database Exercise - Postgres & SQLAlchemy </h1>
-<h2> Contributor: Brandon Steinke </h2>
+<h1 style="color: green;" > A Database Exercise - Postgres & SQLAlchemy </h1>
+<h2 style="color: blue;" > Contributor: Brandon Steinke </h2>
 
 SUMMARY OF THIS DIRECTORY : 
 Database exercise working with company personnel  data using custom queries, and schema design
 
 <h4> Data Inspection Modeling </h4>
-<li> Inspected CSVs and sketched out an "Entity Relationship Diagram" (ERD) of the tables. </li> 
+<li> Inspected CSVs of company personnel and  designed the "Entity Relationship Diagram" (ERD) of the tables. </li> 
 
 <h4> Data Engineering </h4>
 <li> Used the information from data inspection to create a table schema for each of the six CSV files.</li>  
